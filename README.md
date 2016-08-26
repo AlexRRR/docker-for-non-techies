@@ -32,6 +32,11 @@ The Restaurants were a huge success, and they began to create a franchise. They 
 
 At first it was easy to very the quality of the dishes but as the franchise grew it became exponentially more difficult for the Chef to know exactly what was being served.
 
+For the task of making sure that all Restaurants in the franchise were exactly the same, we created a group of people nicknamed *the puppets* which held the position of **Configuration Manager** on their business cards. The job of these guys was going regularly to each Restaurant, have their checklist ready of how things should be and if **anything** changed, they would return it right back to the way it was supposed to be.
+
+These *Configuration Managers* would check that the Ingredients were obtained locally according to their list.
+
+But as the number buildings grew, complications appeared: One Restaurant was in a very hot and humid area of the country... then the checklist would need to include an A/C setup for this Restaurant and maybe no carpeting... but not for the ones in the Mountains. All of these little complications grew into a huge list. Making a single change in that list was really scary, as it could potentially change everything in *every* single Restaurant.
 
 ### The Lasagne Bolognese
 
@@ -112,16 +117,14 @@ It gets even better, the machine uses multiple of these tupperware containers at
 
 Remember the weird law where you had to change the building of your every few years? Well in order to serve growing customer, the Chef has decided that each location should have more than one restaurant next to each other. And they will serve different types of dishes, so one might be doing Pad Thai, Steak Bernoise, but not really Lasagne. And the other Restaurants might have Lasagne but not Pad Thai.
 
- So people before entering the building place the order with a _Maître d'hôtel_ and he will send them to the correct building where their desired choice is currently being served.
+So people before entering the building place the order with a _Maître d'hôtel_ and he will send them to the correct building where their desired choice is currently being served.
 
- In case a building is declared non-usable by the city, the _Maître d'hôtel_ can quickly inform the other Restaurant buildings to start serving the dishes that are currently not served, and ensures that all dishes available.
+In case a building is declared non-usable by the city, the _Maître d'hôtel_ can quickly inform the other Restaurant buildings to start serving the dishes that are currently not served, and ensures that all dishes available.
 
- But the _Maître d'hôtel_ is something really special, he will always periodically look at the presentation of the dish, and care that it is served at the correct temperature. In case of the dish not following his strict requirements  he can ask for a new dish to be created from the tupperware container in the Kitchen. Not only that he will also take care that the restaurant has enough and the _correct_ cups, plates, etc, for serving new dishes, so say the Chef now wants to offer _Escargot de Bourgogne_ the _Maître d'hôtel_ will *only* add this dish to the Restaurant that has the right cutlery to handle it, you don't eat _Escargot de Bourgogne_ with fork and knife only... we are not savages are we?
+But the _Maître d'hôtel_ is something really special, he will always periodically look at the presentation of the dish, and care that it is served at the correct temperature. In case of the dish not following his strict requirements  he can ask for a new dish to be created from the tupperware container in the Kitchen. Not only that he will also take care that the restaurant has enough and the _correct_ cups, plates, etc, for serving new dishes, so say the Chef now wants to offer _Escargot de Bourgogne_ the _Maître d'hôtel_ will *only* add this dish to the Restaurant that has the right cutlery to handle it, you don't eat _Escargot de Bourgogne_ with fork and knife only... we are not savages are we?
 
- ## Some things are more complicated.
+## Some things are more complicated.
 
- So this new world of magical tupperware containers sounds so perfect, but it isn't it all magical. Somethings are more complicated, for example think of the billing, even though a same physical building is selling different dishes, each dish the serve might belong to a *different* restaurant, the Lasagne to the Italian, the Pad Thai to the eh... Thai restaurant. Separating and later agregatting of the billing per dish across all the different buildings, to do the accountancy for a single Restaurant.
+So this new world of magical tupperware containers sounds so perfect, but it isn't it all magical. Somethings are more complicated, for example think of the billing, even though a same physical building is selling different dishes, each dish the serve might belong to a *different* restaurant, the Lasagne to the Italian, the Pad Thai to the eh... Thai restaurant. Separating and later agregatting of the billing per dish across all the different buildings, to do the accountancy for a single Restaurant.
 
- There is also the problem of *shared storage*, think about Phad Thai, you need to add lime, coriander and peanuts *after* serving it on the plate. So it cannot come from the container. To have consistency you would need to have central storage to have the *same* kind of limes, peanuts, and coriander also the detailed quantities of each ingredient. And if a change is needed when it is done it immediately applied to all buildings server Pad Thai. Having this shared storage that is easily reachable for all is difficult (but absolutely doable).
-
- 
+There is also the problem of *shared storage*, think about Phad Thai, you need to add lime, coriander and peanuts *after* serving it on the plate. So it cannot come from the container. To have consistency you would need to have central storage to have the *same* kind of limes, peanuts, and coriander also the detailed quantities of each ingredient. And if a change is needed when it is done it immediately applied to all buildings server Pad Thai. Having this shared storage that is easily reachable for all is difficult (but absolutely doable).
