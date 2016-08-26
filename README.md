@@ -117,3 +117,11 @@ Remember the weird law where you had to change the building of your every few ye
  In case a building is declared non-usable by the city, the _Maître d'hôtel_ can quickly inform the other Restaurant buildings to start serving the dishes that are currently not served, and ensures that all dishes available.
 
  But the _Maître d'hôtel_ is something really special, he will always periodically look at the presentation of the dish, and care that it is served at the correct temperature. In case of the dish not following his strict requirements  he can ask for a new dish to be created from the tupperware container in the Kitchen. Not only that he will also take care that the restaurant has enough and the _correct_ cups, plates, etc, for serving new dishes, so say the Chef now wants to offer _Escargot de Bourgogne_ the _Maître d'hôtel_ will *only* add this dish to the Restaurant that has the right cutlery to handle it, you don't eat _Escargot de Bourgogne_ with fork and knife only... we are not savages are we?
+
+ ## Some things are more complicated.
+
+ So this new world of magical tupperware containers sounds so perfect, but it isn't it all magical. Somethings are more complicated, for example think of the billing, even though a same physical building is selling different dishes, each dish the serve might belong to a *different* restaurant, the Lasagne to the Italian, the Pad Thai to the eh... Thai restaurant. Separating and later agregatting of the billing per dish across all the different buildings, to do the accountancy for a single Restaurant.
+
+ There is also the problem of *shared storage*, think about Phad Thai, you need to add lime, coriander and peanuts *after* serving it on the plate. So it cannot come from the container. To have consistency you would need to have central storage to have the *same* kind of limes, peanuts, and coriander also the detailed quantities of each ingredient. And if a change is needed when it is done it immediately applied to all buildings server Pad Thai. Having this shared storage that is easily reachable for all is difficult (but absolutely doable).
+
+ 
