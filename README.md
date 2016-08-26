@@ -1,6 +1,6 @@
 
 
-# Software containarization
+# Software Containerization
 
 ## Analogies
 Analogies are used throughout the presentation as they allow people for very different domains
