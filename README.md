@@ -23,6 +23,8 @@ But every year, the Chef noticed that the buildings available just kept growing 
 
 Now this Chef was really smart, and he decided since they had more space, the could install *new* kinds of Restaurants inside the same building, so they would make division walls inside, make entry doors, install new furniture, new piping, new heating, new kitchen, etc.
 
+These Restaurants had their own entry door, neon sign, welcome mat even though they were not *outside* the building. But if you were inside one, you could not really tell this a a Restaurant inside a Restaurant.
+
 This was fine, they could now make a better use of the space, but it was getting harder and harder to get all Restaurants to be exactly alike.
 
 
@@ -30,9 +32,9 @@ This was fine, they could now make a better use of the space, but it was getting
 
 The Restaurants were a huge success, and they began to create a franchise. They would give a the new franchise owners a list of *exactly* the things each Restaurants should have, the furniture, the size of the kitchen. And when done, the cooks of the franchise would *execute* the very detailed recipe and serve it to their customers.
 
-At first it was easy to very the quality of the dishes but as the franchise grew it became exponentially more difficult for the Chef to know exactly what was being served.
+At first it was easy to verify the quality of the dishes and the general facilities but as the franchise grew it became exponentially more difficult for the Chef to know exactly what was being served.
 
-For the task of making sure that all Restaurants in the franchise were exactly the same, we created a group of people nicknamed *the puppets* which held the position of **Configuration Manager** on their business cards. The job of these guys was going regularly to each Restaurant, have their checklist ready of how things should be and if **anything** changed, they would return it right back to the way it was supposed to be.
+For the task of making sure that all Restaurants in the franchise were exactly the same, he hired a group of people he nicknamed *the puppets* although they held the position of **Configuration Managers** on their business cards. The job of these guys was going regularly to each Restaurant, have their checklist ready of how things should be and if **anything** changed, they would return it right back to the way it was supposed to be.
 
 These *Configuration Managers* would check that the Ingredients were obtained locally according to their list.
 
