@@ -78,14 +78,14 @@ Read more at: [Recipe] (http://www.foodnetwork.com/recipes/mario-batali/lasagne-
 
 The Restaurants aim for Michelin stars, and to achieve that every single part of the dish must be perfect, not only that but it is improved upon **constantly**, in the case of the Lasagne, trying out new kinds of minced meat, new types of butter, wine from different regions, etc.
 
-Up until now traditionally Recipes had been treated as a whole, you take all the ingredients, cook it and taste it at the end. This made tracking undesired flavours *very difficult*, and also when new cooks arrive at the Chefs Kitchen it takes them much longer to fully understand, master and improve the recipe.
+Up until now traditionally Recipes had been treated as a whole, you take all the ingredients, cook it and taste it at the end. This made tracking undesired flavours *very difficult*, and also when new cooks arrive at the Chefs Kitchen it takes them much longer to fully understand, master and improve the recipe. This big recipes were called *Monolythic Recipes*.
 
 So the Chef decided to break down the recipes into smaller, possibly reusable elements, in the case of the Lasagne:
 - Ragu Bolognese
 - Lasagna al Forno
 - Besciamella
 
-Improvements can be done to one specific part of the recipe, tracking problems is much simpler as they taste each component and new cooks can master the recipe faster.
+Improvements can be done to one specific part of the recipe, tracking problems is much simpler as they taste each component and new cooks can master the recipe faster. We call this reciped *Micro Recipes*
 
 ### Disaster strikes
 
