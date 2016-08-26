@@ -21,9 +21,9 @@ But every year, the Chef noticed that the buildings available just kept growing 
 
 ### The Multi-Restaurant (Analogy for VMs)
 
-Now this Chef was really smart, and he decided since they had more space, the could install *new* kinds of Restaurants inside the same building, so they would make division walls inside, make entry doors, install new furniture, new piping, new heating, new kitchen, etc.
+Now this Chef was really smart, and he decided since they had more space, they could install *new* kinds of Restaurants inside the same building, so they would make division walls inside, make entry doors, install new furniture, new piping, new heating, new kitchen, etc.
 
-These Restaurants had their own entry door, neon sign, welcome mat even though they were not *outside* the building. But if you were inside one, you could not really tell this a a Restaurant inside a Restaurant.
+These Restaurants had their own entry door, neon sign, welcome mat, *everything* as a real Restaurant, even though they were not *outside* the building. But if you were inside one, you could not really tell this a a Restaurant inside a Restaurant.
 
 This was fine, they could now make a better use of the space, but it was getting harder and harder to get all Restaurants to be exactly alike.
 
@@ -34,11 +34,11 @@ The Restaurants were a huge success, and they began to create a franchise. They 
 
 At first it was easy to verify the quality of the dishes and the general facilities but as the franchise grew it became exponentially more difficult for the Chef to know exactly what was being served.
 
-For the task of making sure that all Restaurants in the franchise were exactly the same, he hired a group of people he nicknamed *the puppets* although they held the position of **Configuration Managers** on their business cards. The job of these guys was going regularly to each Restaurant, have their checklist ready of how things should be and if **anything** changed, they would return it right back to the way it was supposed to be.
+For the task of making sure that all Restaurants in the franchise were exactly the same, he hired a group of people nicknamed *the puppets* although they held the position of **Configuration Managers** on their business cards. The job of these guys was going regularly to each Restaurant with their checklists of how things should be and if **anything** was different, they would return it right back to the way it was supposed to be.
 
 These *Configuration Managers* would check that the Ingredients were obtained locally according to their list.
 
-But as the number buildings grew, complications appeared: One Restaurant was in a very hot and humid area of the country... then the checklist would need to include an A/C setup for this Restaurant and maybe no carpeting... but not for the ones in the Mountains. All of these little complications grew into a huge list. Making a single change in that list was really scary, as it could potentially change everything in *every* single Restaurant.
+But as the number buildings grew, complications appeared: One Restaurant was in a very hot and humid area of the country... then the checklist would need to include an A/C setup for this Restaurant and maybe no carpeting... but not for the ones in the Mountains, here we would need wool seat covers and a chimney. All of these little differences grew into a huge list. Making a single change in that list was really scary, as it could potentially change everything in *every* single Restaurant.
 
 ### The Lasagne Bolognese
 
@@ -76,7 +76,7 @@ Read more at: [Recipe] (http://www.foodnetwork.com/recipes/mario-batali/lasagne-
 
 ### The Perfectionist Chef
 
-The Restaurants aim for Michelin stars, and to achieve that every single part of the dish must be perfect, not only that but it is improved upon **constantly**, in the case of the Lasagne, trying out new kinds of minced meat, new types of butter, wine from different regions, etc.
+The Restaurants aim for Michelin stars, and to achieve that every single part of every dish they serve must be perfect, not only that but it is improved upon **constantly**, in the case of the Lasagne, trying out new kinds of minced meat, new types of butter, wine from different regions, etc.
 
 Up until now traditionally Recipes had been treated as a whole, you take all the ingredients, cook it and taste it at the end. This made tracking undesired flavours *very difficult*, and also when new cooks arrive at the Chefs Kitchen it takes them much longer to fully understand, master and improve the recipe. This big recipes were called *Monolythic Recipes*.
 
@@ -94,13 +94,13 @@ One day disaster hits, there is one bad review in the *Gourmet* magazine about t
 
 A complete and total **disaster**!!
 
-Now the Chef needs to go to every single restaurant (Gourmet magazine restaurant inspectors don't really tell you where they ate) try the Lasagne to find the source of the problem.
+Now the Chef needs to go to every single restaurant (Gourmet magazine restaurant inspectors don't really tell you where they ate) to try the Lasagne and find the source of the problem.
 
-After much research he finds that one Restaurant has being using *Campari* tomatoes and as  **everybody** knows those are very sweet. The Chef had *Roma* tomatoes used in his kitchen while testing the recipe.
+After much research he finds that one Restaurant has been using *Campari* tomatoes and as  **everyone** knows those are extremely sweet. The Chef had used *Roma* tomatoes in his kitchen while developing the recipe.
 
 Problem is that *Campari* tomatoes work perfectly for the Caprese Salad they serve, and the *Roma* tomatoes are simply not available fresh in this region of the country.
 
-This just one of the cases they have spotted recently, this sort of investigation takes a *lot* of time from the Chef, when he could be creating new dishes or improving old ones. This is definitively **not** good for business.
+This is just one of the many cases they have spotted recently, this sort of investigation is extremely time consuming and expensive for the Chef, He could be creating new dishes or improving old ones. This is definitively **not** good for business.
 
 
 ## A Technology Breakthrough
@@ -115,6 +115,10 @@ Not only that! The machine **clones** the container and can serve as many copies
 
 It gets even better, the machine uses multiple of these tupperware containers at once with the latest parts of the Lasagne (Ragu, Lasagne, Besciamella) to create a single dish, the cooks just need to ask for a _Lasagne_!
 
+Sometimes in such high-end places you need to test not only one dish but you want to test the dish you are developing against the complete **full course meal**, this consists of several dishes which are served to the customer in a specific order, they must be harmonious with each other flavour wise. In the past the Chef developing the new dish, would need to wait for all the other Chefs in the kitchen to create samples of their dishes just to see how they would mix with their new development. Chefs waiting for other Chefs to test the *full meal course* was just time consuming, frustrating and expensive.
+
+Now from the tupperware containers a single Chef can **instantly** create new _full course meals_ to test every variation of the dishes they are developing and pair them with what is currently being served in the Restaurants to customers.  
+
 ## Keeping customers happy (Orchestration)
 
 Remember the weird law where you had to change the building of your every few years? Well in order to serve growing customer, the Chef has decided that each location should have more than one restaurant next to each other. And they will serve different types of dishes, so one might be doing Pad Thai, Steak Bernoise, but not really Lasagne. And the other Restaurants might have Lasagne but not Pad Thai.
@@ -127,6 +131,6 @@ But the _Maître d'hôtel_ is something really special, he will always periodica
 
 ## Some things are more complicated.
 
-So this new world of magical tupperware containers sounds so perfect, but it isn't it all magical. Somethings are more complicated, for example think of the billing, even though a same physical building is selling different dishes, each dish the serve might belong to a *different* restaurant, the Lasagne to the Italian, the Pad Thai to the eh... Thai restaurant. Separating and later agregatting of the billing per dish across all the different buildings, to do the accountancy for a single Restaurant.
+So this new world of magical tupperware containers sounds so perfect, but it isn't it all magical. Some things are more complicated, for example think of the billing, even though a same physical building is selling different dishes, each dish the serve might belong to a *different* restaurant, the Lasagne to the Italian restaurant, the Pad Thai to the eh... Thai restaurant. Separating and later agregatting of the billing per dish across all the different buildings, to do the accountancy for a single Restaurant.
 
 There is also the problem of *shared storage*, think about Phad Thai, you need to add lime, coriander and peanuts *after* serving it on the plate. So it cannot come from the container. To have consistency you would need to have central storage to have the *same* kind of limes, peanuts, and coriander also the detailed quantities of each ingredient. And if a change is needed when it is done it immediately applied to all buildings server Pad Thai. Having this shared storage that is easily reachable for all is difficult (but absolutely doable).
