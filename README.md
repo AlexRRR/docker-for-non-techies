@@ -23,12 +23,14 @@ But every year, the Chef noticed that the buildings available just kept growing 
 
 Now this Chef was really smart, and he decided since they had more space, the could install *new* kinds of Restaurants inside the same building, so they would make division walls inside, make entry doors, install new furniture, new piping, new heating, new kitchen, etc.
 
+This was fine, they could now make a better use of the space, but it was getting harder and harder to get all Restaurants to be exactly alike.
+
 
 ### Expansion
 
-The Restaurants were a huge success, and they began to create a franchise. They would give a the new franchise owners a list of *exactly* the things each Restaurants should have, the furniture, the size of the kitchen. And when done, the cooks of the franchise would *execute* the very detailed recipe and server it to the customers.
+The Restaurants were a huge success, and they began to create a franchise. They would give a the new franchise owners a list of *exactly* the things each Restaurants should have, the furniture, the size of the kitchen. And when done, the cooks of the franchise would *execute* the very detailed recipe and serve it to their customers.
 
-At first it was easy to very the quality of the dishes but as the franchise grew it became exponentially more dificult for the Chef to know exactly what was being served.
+At first it was easy to very the quality of the dishes but as the franchise grew it became exponentially more difficult for the Chef to know exactly what was being served.
 
 
 ### The Lasagne Bolognese
@@ -104,5 +106,4 @@ Now all the Restaurants have installed one of these machines and they get a copy
 
 Not only that! The machine **clones** the container and can serve as many copies of the dish as the restaurant needs!!!
 
-It gets even better, you can place multiple of these tupperware containers, with the latest parts of the Lasagne (Ragu, Lasagne, Besciamella)
-and build a single dish from them!
+It gets even better, the machine uses multiple of these tupperware containers at once with the latest parts of the Lasagne (Ragu, Lasagne, Besciamella) to create a single dish, the cooks just need to ask for a _Lasagne_!
