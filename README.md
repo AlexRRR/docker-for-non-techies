@@ -121,12 +121,7 @@ So people before entering the building place the order with a _Maître d'hôtel_
 
 In case a building is declared non-usable by the city, the _Maître d'hôtel_ can quickly inform the other Restaurant buildings to start serving the dishes that are currently not served, and ensures that all dishes available.
 
-<<<<<<< HEAD
 But the _Maître d'hôtel_ is something really special, he will always periodically look at the presentation of the dish, and care that it is served at the correct temperature. In case of the dish not following his strict requirements  he can ask for a new dish to be created from the tupperware container in the Kitchen. Not only that he will also take care that the restaurant has enough and the _correct_ cups, plates, etc, for serving new dishes, so say the Chef now wants to offer _Escargot de Bourgogne_ the _Maître d'hôtel_ will *only* add this dish to the Restaurant that has the right cutlery to handle it, you don't eat _Escargot de Bourgogne_ with fork and knife only... we are not savages are we?
-=======
-
-## Some things are more complicated.
->>>>>>> 06d3c56fdc5f26eef0fa632b59f5cfe0fbde3d33
 
 ## Some things are more complicated.
 
