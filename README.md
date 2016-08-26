@@ -107,3 +107,13 @@ Now all the Restaurants have installed one of these machines and they get a copy
 Not only that! The machine **clones** the container and can serve as many copies of the dish as the restaurant needs!!!
 
 It gets even better, the machine uses multiple of these tupperware containers at once with the latest parts of the Lasagne (Ragu, Lasagne, Besciamella) to create a single dish, the cooks just need to ask for a _Lasagne_!
+
+## Keeping customers happy (Orchestration)
+
+Remember the weird law where you had to change the building of your every few years? Well in order to serve growing customer, the Chef has decided that each location should have more than one restaurant next to each other. And they will serve different types of dishes, so one might be doing Pad Thai, Steak Bernoise, but not really Lasagne. And the other Restaurants might have Lasagne but not Pad Thai.
+
+ So people before entering the building place the order with a _Maître d'hôtel_ and he will send them to the correct building where their desired choice is currently being served.
+
+ In case a building is declared non-usable by the city, the _Maître d'hôtel_ can quickly inform the other Restaurant buildings to start serving the dishes that are currently not served, and ensures that all dishes available.
+
+ But the _Maître d'hôtel_ is something really special, he will always periodically look at the presentation of the dish, and care that it is served at the correct temperature. In case of the dish not following his strict requirements  he can ask for a new dish to be created from the tupperware container in the Kitchen. Not only that he will also take care that the restaurant has enough and the _correct_ cups, plates, etc, for serving new dishes, so say the Chef now wants to offer _Escargot de Bourgogne_ the _Maître d'hôtel_ will *only* add this dish to the Restaurant that has the right cutlery to handle it, you don't eat _Escargot de Bourgogne_ with fork and knife only... we are not savages are we?
