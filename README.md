@@ -85,13 +85,13 @@ One day disaster hits, there is one bad review in the *Gourmet* magazine about t
 
 A complete and total **disaster**!!
 
-Now the Chef needs to go to every single restaurant (Gourmet magazine restaurant inspectors don't really tell you where they ate) and try the Lasagne in each Restaurant to try and find the source of the problem.
+Now the Chef needs to go to every single restaurant (Gourmet magazine restaurant inspectors don't really tell you where they ate) try the Lasagne to find the source of the problem.
 
-After much research he finds that one Restaurant has being using *Campari* tomatoes used in a, and **everybody** knows that those are very sweet. The Chef himself had used in his kitchen while testing the recipe *Roma* tomatoes.
+After much research he finds that one Restaurant has being using *Campari* tomatoes and as  **everybody** knows those are very sweet. The Chef had *Roma* tomatoes used in his kitchen while testing the recipe.
 
 Problem is that *Campari* tomatoes work perfectly for the Caprese Salad they serve, and the *Roma* tomatoes are simply not available fresh in this region of the country.
 
-And this just one of the cases they have spotted recently and this sort of investigation takes a *lot* of time from the Chef, when he could be creating new dishes or improving old ones. This is definitively **not** good for business.
+This just one of the cases they have spotted recently, this sort of investigation takes a *lot* of time from the Chef, when he could be creating new dishes or improving old ones. This is definitively **not** good for business.
 
 
 ## A Technology Breakthrough
