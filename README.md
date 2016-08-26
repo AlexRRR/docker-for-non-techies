@@ -118,7 +118,8 @@ Remember the weird law where you had to change the building of your every few ye
 
  But the _Maître d'hôtel_ is something really special, he will always periodically look at the presentation of the dish, and care that it is served at the correct temperature. In case of the dish not following his strict requirements  he can ask for a new dish to be created from the tupperware container in the Kitchen. Not only that he will also take care that the restaurant has enough and the _correct_ cups, plates, etc, for serving new dishes, so say the Chef now wants to offer _Escargot de Bourgogne_ the _Maître d'hôtel_ will *only* add this dish to the Restaurant that has the right cutlery to handle it, you don't eat _Escargot de Bourgogne_ with fork and knife only... we are not savages are we?
 
- ## Some things are more complicated.
+
+## Some things are more complicated.
 
  So this new world of magical tupperware containers sounds so perfect, but it isn't it all magical. Somethings are more complicated, for example think of the billing, even though a same physical building is selling different dishes, each dish the serve might belong to a *different* restaurant, the Lasagne to the Italian, the Pad Thai to the eh... Thai restaurant. Separating and later agregatting of the billing per dish across all the different buildings, to do the accountancy for a single Restaurant.
 
