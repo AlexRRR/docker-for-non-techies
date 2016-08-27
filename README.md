@@ -115,9 +115,9 @@ Not only that! The machine **clones** the container and can serve as many copies
 
 It gets even better, the machine uses multiple of these tupperware containers at once with the latest parts of the Lasagne (Ragu, Lasagne, Besciamella) to create a single dish, the cooks just need to ask for a _Lasagne_!
 
-Sometimes in such high-end places you need to test not only one dish but you want to test the dish you are developing against the complete **full course meal**, this consists of several dishes which are served to the customer in a specific order, they must be harmonious with each other flavour wise. In the past the Chef developing the new dish, would need to wait for all the other Chefs in the kitchen to create samples of their dishes just to see how they would mix with their new development. Chefs waiting for other Chefs to test the *full meal course* was just time consuming, frustrating and expensive.
+Sometimes in such high-end places you need to test not only one dish but you want to test the dish you are developing against the complete **full course meal**, this consists of several dishes which are served to the customer in a specific order, they must be harmonious with each other not only in flavour but also in temperature and texture. In the past the Chef developing the new dish, would need to wait for all the other Chefs in the kitchen to create samples of their dishes and arrange a tables with the full meal to test how  their new development would fit in the meal. Of course you can only make a limited about of test tables, Chefs waiting for other Chefs to test the *full meal course* was just time consuming, frustrating and expensive.
 
-Now from the tupperware containers a single Chef can **instantly** create new _full course meals_ to test every variation of the dishes they are developing and pair them with what is currently being served in the Restaurants to customers.  
+Now from the tupperware containers a single Chef can **instantly** create complete _full course meals_ to test every variation of the dish they are currently developing and pair them with what is currently being served at the Restaurants to customers.  
 
 ## Keeping customers happy (Orchestration)
 
@@ -134,3 +134,17 @@ But the _Maître d'hôtel_ is something really special, he will always periodica
 So this new world of magical tupperware containers sounds so perfect, but it isn't it all magical. Some things are more complicated, for example think of the billing, even though a same physical building is selling different dishes, each dish the serve might belong to a *different* restaurant, the Lasagne to the Italian restaurant, the Pad Thai to the eh... Thai restaurant. Separating and later agregatting of the billing per dish across all the different buildings, to do the accountancy for a single Restaurant.
 
 There is also the problem of *shared storage*, think about Phad Thai, you need to add lime, coriander and peanuts *after* serving it on the plate. So it cannot come from the container. To have consistency you would need to have central storage to have the *same* kind of limes, peanuts, and coriander also the detailed quantities of each ingredient. And if a change is needed when it is done it immediately applied to all buildings server Pad Thai. Having this shared storage that is easily reachable for all is difficult (but absolutely doable).
+
+## This is not our business! (cloud)
+
+One still standing problem was the problem of the Buildings which you had to move out every few years and build *new ones", not only that... but managing warehouses, delivering things at the right time from the central storage, scouting land for going into new territories. This whole Infrastructure problem was a little too much and it took so many resources that the Chefs instead of focusing on their business: serving the most delicious and ensuring the highest quality of food, where diluiting their time into other things. If there was only a better way....
+
+As luck would have it several years ago a very, very smart and extremely successful book salesman realized that he had gotten **extremely** good at creating this type of buildings for his own business, so much that people constantly ask him to let them rent some space inside *his* buildings because they like them so much. He soon realized that this could be **his business**.
+
+People could go and rent as many building as they needed for whatever needs they had, and not care about bricks, and piping, and deal with infamous old building law anymore, the book salesman would take care of all that for them. He was so successful that he could rent buildings in any region of the world. He would coordinate the central storage and ensure that it was always running!
+
+The Chef realized that *any* new cook just fresh out of school with a good idea could just come to the book salesman and have a Restaurant chain as big as they wanted **instantly**! They could focus 100% on **their business** and make their recipes better and always keep improving the quality, but if the Chef wanted to grow more he had to take care of all those tedious and complicated tasks, he could not just compete! This was a huge danger to his business.
+
+Now the change was very easy because of the tupperware containers, now he could just rent the building from the book salesman, furnish it, install the microwave like machine to cook (run) the tupperware containers and he would be ready to go! No need to make sure the rented building had the right ingredients available in its area, everything needed was already in the container!
+
+Now there was no need to take care of the paint of the building, the floors, the pipes, the heating system, etc. The Chef could now concentrate 100% on his business and what was important for his customers.
